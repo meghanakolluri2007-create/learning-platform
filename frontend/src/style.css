@@ -1,0 +1,11 @@
+body{font-family:Arial,sans-serif;margin:0;background:#f4f6fb;color:#222}
+nav{background:#2d3a8c;padding:12px;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+nav b{color:#fff;margin-right:auto}
+nav button{background:#fff;border:0;padding:8px 12px;border-radius:6px;cursor:pointer}
+.wrap{max-width:900px;margin:20px auto;padding:0 16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.card{background:#fff;padding:16px;border-radius:10px;box-shadow:0 1px 4px #0002}
+input{display:block;width:100%;padding:10px;margin:8px 0;box-sizing:border-box}
+button.p{background:#2d3a8c;color:#fff;border:0;padding:10px 14px;border-radius:6px;cursor:pointer;margin:4px 4px 0 0}
+.bar{background:#ddd;border-radius:6px;height:12px}.bar div{background:#2da44e;height:12px;border-radius:6px}
+.err{color:#c00}
